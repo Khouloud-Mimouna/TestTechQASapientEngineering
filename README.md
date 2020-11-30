@@ -12,3 +12,4 @@ $ cd TestTechQASapientEngineering
 
 # Run the tests
 $ maven clean
+$ maven run
